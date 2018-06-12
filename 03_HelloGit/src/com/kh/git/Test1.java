@@ -6,7 +6,7 @@ public class Test1 {
 		System.out.println("안녕, 깃");
 		System.out.println("hello, git");
 		System.out.println("commit!!!!");
-		
+		System.out.println("합병");
 	}
 
 }
